@@ -15,9 +15,9 @@
     "lint"
   ],
   "dependencies": {
-    "@nuxtjs/axios": "5.13.1",
-    "@nuxtjs/dotenv": "1.4.1",
-    "@nuxtjs/fontawesome": "1.1.2",
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/pwa": "3.3.5",
     "@nuxtjs/sitemap": "2.4.0",
     "@nuxtjs/vuetify": "1.11.3",
